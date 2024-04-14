@@ -5,50 +5,51 @@
 1. Use installplayit.sh to install playit in codespace.run script ```./installplayit.sh```
 2. type ```playit``` in terminal to start playit and configure it.
 ### after starting play it click the link 
- ![image](https://github.com/MinecraftForeverTM/Minecraft-Forever/assets/166066811/1d7f7ead-1386-4215-86cf-45189397e604)
+
+![Screenshot 2024-04-14 112000](https://github.com/Spider2742/Mineraft_server/assets/104397256/2356ec00-0f78-43f1-84be-f4fa2cf38c61)
 
 ### after clicking link while holding ctrl you will be redirected to playit.gg
 ### Click continue
 
-   ![image](https://github.com/MinecraftForeverTM/Minecraft-Forever/assets/166066811/30c9a058-5376-481a-9d54-1949102c7c90)
+![Screenshot 2024-04-14 112143](https://github.com/Spider2742/Mineraft_server/assets/104397256/6eb7bdaf-7e76-4dda-818c-cf5312e413c9)
 
 ### Give the agent any name you want and then press add agent
 
-![image](https://github.com/MinecraftForeverTM/Minecraft-Forever/assets/166066811/53717821-cfac-4574-bf87-fe8df0e595f6)
+![Screenshot 2024-04-14 112204](https://github.com/Spider2742/Mineraft_server/assets/104397256/bde0d410-e3b0-4c86-b016-7f56fd9aa1de)
 
 ### Click on tunnels
 
-![image](https://github.com/MinecraftForeverTM/Minecraft-Forever/assets/166066811/ac743dd1-b7d6-42a2-93a3-ff17bd5ac0af)
+![Screenshot 2024-04-14 112219](https://github.com/Spider2742/Mineraft_server/assets/104397256/7cfd82f5-3cc7-4097-a5fd-6060cba5518c)
 
 ### Click on the tunnel oof the old agent
 
-![image](https://github.com/MinecraftForeverTM/Minecraft-Forever/assets/166066811/8b0838e5-1e1b-4400-a0d8-d5305fa48bf0)
+![Screenshot 2024-04-14 112246](https://github.com/Spider2742/Mineraft_server/assets/104397256/8e630eb2-6385-4b99-a85b-b2dcb36758b7)
 
 ### scroll down and click on tranfer your tunnel
 
-![image](https://github.com/MinecraftForeverTM/Minecraft-Forever/assets/166066811/e99b97cd-2f53-455b-bb8e-88f794c84675)
+![Screenshot 2024-04-14 112300](https://github.com/Spider2742/Mineraft_server/assets/104397256/525e87a4-58af-4d6a-b545-06db210ffb68)
 
 ### select the agent you just added
 
-![image](https://github.com/MinecraftForeverTM/Minecraft-Forever/assets/166066811/5e83321c-2aee-4eb7-b5c1-db48ad1024a0)
+![Screenshot 2024-04-14 112319](https://github.com/Spider2742/Mineraft_server/assets/104397256/65432a4c-7b4c-49f9-bb86-0645ff6f75a7)
 
 ### now press transfer tunnel
 
-![image](https://github.com/MinecraftForeverTM/Minecraft-Forever/assets/166066811/e1176e11-f29e-4879-bab2-351b72ca2932)
+![Screenshot 2024-04-14 112328](https://github.com/Spider2742/Mineraft_server/assets/104397256/a53757c7-1f84-4073-af3d-d7985408383f)
 
 ### click on Agents
 
-![image](https://github.com/MinecraftForeverTM/Minecraft-Forever/assets/166066811/5cd96439-e78c-4760-a916-a28ee9f74495)
+![Screenshot 2024-04-14 112355](https://github.com/Spider2742/Mineraft_server/assets/104397256/13fd2a50-1bfd-4b7e-8ae1-ae9f61607171)
 
 ### select the old agent from which you transfered the tunnel
 
-![image](https://github.com/MinecraftForeverTM/Minecraft-Forever/assets/166066811/eb68e3db-5d61-499f-98de-603c24200e72)
+![Screenshot 2024-04-14 112406](https://github.com/Spider2742/Mineraft_server/assets/104397256/d60e52f4-1294-4268-a66a-8a580a460832)
 
 ### click on settings and then delete agent
 
-![image](https://github.com/MinecraftForeverTM/Minecraft-Forever/assets/166066811/c35cb2ca-cb3e-4c3d-b8eb-a3f2611926eb)
-![image](https://github.com/MinecraftForeverTM/Minecraft-Forever/assets/166066811/b83276f2-16d4-4f60-b49c-60d4097e8248)
-![image](https://github.com/MinecraftForeverTM/Minecraft-Forever/assets/166066811/7ed7a465-8163-44f1-869b-9f35000e2ade)
+![Screenshot 2024-04-14 112413](https://github.com/Spider2742/Mineraft_server/assets/104397256/ca85fc81-27e0-4e14-82b1-5222c39676da)
+![Screenshot 2024-04-14 112421](https://github.com/Spider2742/Mineraft_server/assets/104397256/32dc91af-d780-4b99-8b10-088dbe4620bd)
+![Screenshot 2024-04-14 112428](https://github.com/Spider2742/Mineraft_server/assets/104397256/13b30b6b-6286-4ae9-a972-b60d1ca16587)
 
 ## Your playit is now ready
 
@@ -65,4 +66,4 @@
 >[!Note]
 >Start ``playit`` , ``backup`` and ``server`` on differnent terminals as they wont run on 1 single terminal
 >you can start other terminals by pressing the button shown in pic below
->![image](https://github.com/MinecraftForeverTM/Minecraft-Forever/assets/166066811/102d682f-e979-4dde-b95f-4c95008c350f)
+![image](https://github.com/Spider2742/Mineraft_server/assets/104397256/d34fcd96-4cb1-4932-8718-d38fa1bbd4db)
