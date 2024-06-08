@@ -743,3 +743,7 @@ java.lang.NullPointerException: Cannot read field "g" because the return value o
 [10:09:07] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
 [10:09:14] [Async Chat Thread - #13/INFO]: [Not Secure] <parde> زی بو
 [10:09:40] [Async Chat Thread - #13/INFO]: [Not Secure] <parsahigh> kiri mokhtasat vilage vala kerdom vey ta bejoremesh
+[10:09:53] [Server thread/INFO]: GhasemAgha has made the advancement [We Need to Go Deeper]
+[10:09:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3338ms or 66 ticks behind
+[10:09:53] [Server thread/WARN]: parsahigh moved too quickly! 2.6399470298395045,-2.0,11.592976066189976
+[10:09:53] [Server thread/WARN]: parde moved too quickly! -0.8277184614496491,0.41999998688697815,16.619219163475805
