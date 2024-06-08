@@ -1110,5 +1110,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-06-08 12:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-06-08 12:48:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
