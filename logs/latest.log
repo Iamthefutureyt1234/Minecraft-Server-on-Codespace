@@ -2425,3 +2425,8 @@ java.lang.NullPointerException: Cannot read field "g" because the return value o
 [10:39:41] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
 [10:39:41] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
 [10:40:38] [Async Chat Thread - #27/INFO]: [Not Secure] <parde> اومم
+[10:40:55] [Async Chat Thread - #28/INFO]: [Not Secure] <parsahigh> koni doz
+[10:41:14] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[10:41:42] [Async Chat Thread - #27/INFO]: [Not Secure] <parde> یه غار کلفتی بجو
+[10:41:43] [Async Chat Thread - #28/INFO]: [Not Secure] <parsahigh> flint biar
+[10:41:58] [Async Chat Thread - #28/INFO]: [Not Secure] <parde> سیچه
