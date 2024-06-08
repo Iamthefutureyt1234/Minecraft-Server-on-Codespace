@@ -5735,3 +5735,12 @@ java.net.SocketException: Connection reset
 [12:26:51] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] failed to get Minecraft server from Bukkit.getServer()
 [12:26:51] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
 [12:26:51] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[12:26:52] [User Authenticator #28/INFO]: UUID of player mohammad1388di is 308bef96-2596-3ebc-9552-f9ce1f0d70d6
+[12:26:52] [Server thread/INFO]: mohammad1388di joined the game
+[12:26:52] [Server thread/INFO]: mohammad1388di[/127.0.0.1:40994] logged in with entity id 121503 at ([world]2267.7946974867505, 73.0, 1613.4725169587714)
+[12:27:46] [Server thread/INFO]: THEfutureYT issued server command: /gamemode adventure
+[12:27:46] [Server thread/INFO]: [THEfutureYT: Set own game mode to Adventure Mode]
+[12:27:48] [Server thread/INFO]: THEfutureYT issued server command: /gamemode spectator
+[12:27:48] [Server thread/INFO]: [THEfutureYT: Set own game mode to Spectator Mode]
+[12:27:57] [Server thread/INFO]: THEfutureYT issued server command: /tp @s 2100 -31.5 1800
+[12:27:57] [Server thread/INFO]: [THEfutureYT: Teleported THEfutureYT to 2100.500000, -31.500000, 1800.500000]
