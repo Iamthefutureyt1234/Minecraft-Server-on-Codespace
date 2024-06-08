@@ -1873,6 +1873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-06-08 13:00:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2024-06-08 12:58:03 +0000"
@@ -1936,6 +1942,18 @@
   "minecraft:recipes/decorations/mangrove_fence": {
     "criteria": {
       "has_planks": "2024-06-08 12:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-06-08 13:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-06-08 13:00:43 +0000"
     },
     "done": true
   },
@@ -2110,6 +2128,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-06-08 12:41:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-06-08 13:00:43 +0000"
     },
     "done": true
   },
