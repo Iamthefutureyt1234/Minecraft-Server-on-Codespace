@@ -6577,3 +6577,4 @@ java.net.SocketException: Connection reset
 [13:29:02] [User Authenticator #30/INFO]: UUID of player mohammad1388di is 308bef96-2596-3ebc-9552-f9ce1f0d70d6
 [13:29:02] [Server thread/INFO]: mohammad1388di joined the game
 [13:29:02] [Server thread/INFO]: mohammad1388di[/127.0.0.1:37144] logged in with entity id 144080 at ([world]2229.0641692777845, 72.05411736736092, 1604.5466316547636)
+[13:29:55] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
