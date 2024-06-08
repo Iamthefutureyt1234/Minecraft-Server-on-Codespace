@@ -1029,3 +1029,20 @@ java.net.SocketException: Connection reset
 [17:52:44] [Server thread/INFO]: mohammad1388di joined the game
 [17:52:44] [Server thread/INFO]: mohammad1388di[/127.0.0.1:44904] logged in with entity id 38538 at ([world]2325.9839906059597, 63.0625, 1558.4661353666036)
 [17:53:01] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[17:53:29] [Server thread/WARN]: mohammad1388di was kicked due to keepalive timeout!
+[17:53:29] [Server thread/INFO]: mohammad1388di lost connection: Timed out
+[17:53:29] [Server thread/INFO]: [voicechat] Disconnecting client mohammad1388di
+[17:53:29] [Server thread/INFO]: mohammad1388di left the game
+[17:53:31] [Thread-9/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.141.194:1691, peerAddr=5.213.84.97:53012, claimAddress=209.25.143.2:43264, claimToken=[44, 0, 60, -47, 25, -115, -62, 6, -101, 5, -43, 84, 97, -49, 20, -47, -53, 104, -45, -87, 0, 102, 100, -102, -101, 0, 0, 0, 0, 0, 8, -22, -69, 0, 0, 0, 0, 0, 50, 3, 1, 29, -45, -87, 0, 0, 0, 0, 0, 14, 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 39, 69, 36, 80, -111, 21, 87, -29, -10, -14, -78, -98, 34, 86, -55, -126], tunnelServerId=4, dataCenterId=14}
+[17:53:31] [Thread-9/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[17:53:31] [Thread-9/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.143.2:43264 to claim client
+[17:53:31] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[17:53:31] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[17:53:31] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[17:53:31] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[17:53:31] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] failed to get Minecraft server from Bukkit.getServer()
+[17:53:31] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[17:53:31] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[17:53:32] [User Authenticator #13/INFO]: UUID of player mohammad1388di is 308bef96-2596-3ebc-9552-f9ce1f0d70d6
+[17:53:32] [Server thread/INFO]: mohammad1388di joined the game
+[17:53:32] [Server thread/INFO]: mohammad1388di[/127.0.0.1:53190] logged in with entity id 38903 at ([world]2319.692900094914, 63.0, 1558.056361082531)
