@@ -760,3 +760,23 @@ java.lang.NullPointerException: Cannot read field "g" because the return value o
 [10:14:46] [Async Chat Thread - #17/INFO]: [Not Secure] <parde> منگرو کدومه
 [10:14:53] [Server thread/INFO]: amirreza_1388 has made the advancement [Stone Age]
 [10:14:58] [Async Chat Thread - #17/INFO]: [Not Secure] <parsahigh> ghermez
+[10:15:03] [Server thread/INFO]: amirreza_1388 has made the advancement [Getting an Upgrade]
+[10:15:24] [Async Chat Thread - #16/INFO]: [Not Secure] <parde> نارنجی یا قرمز
+[10:15:35] [Async Chat Thread - #17/INFO]: [Not Secure] <parsahigh> ghemez
+[10:15:43] [Async Chat Thread - #16/INFO]: [Not Secure] <parde> داخل اب
+[10:15:47] [Async Chat Thread - #17/INFO]: [Not Secure] <parsahigh> dakhel 1,19
+[10:16:00] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[10:16:00] [Server thread/INFO]: amirreza_1388 lost connection: Disconnected
+[10:16:00] [Server thread/INFO]: [voicechat] Disconnecting client amirreza_1388
+[10:16:00] [Server thread/INFO]: amirreza_1388 left the game
+[10:16:01] [Thread-9/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.141.194:1691, peerAddr=5.127.212.134:18391, claimAddress=209.25.143.2:43784, claimToken=[44, 0, 60, -47, 25, -115, -62, 6, -101, 5, 127, -44, -122, 71, -41, 101, 85, -60, -91, -85, 8, 102, 100, 47, 97, 0, 0, 0, 0, 0, 8, -22, -69, 0, 0, 0, 0, 0, 50, 3, 1, -98, -91, -85, 8, 0, 0, 0, 0, 14, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 103, -71, -97, 33, -93, 3, -51, 74, 19, -128, 24, -81, -76, 17, 18, 72], tunnelServerId=1, dataCenterId=14}
+[10:16:01] [Thread-9/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[10:16:01] [Thread-9/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.143.2:43784 to claim client
+[10:16:01] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[10:16:01] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[10:16:01] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[10:16:01] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[10:16:01] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] failed to get Minecraft server from Bukkit.getServer()
+[10:16:01] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[10:16:01] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[10:16:08] [Async Chat Thread - #18/INFO]: [Not Secure] <parsahigh> motmani?
