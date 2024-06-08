@@ -780,3 +780,20 @@ java.lang.NullPointerException: Cannot read field "g" because the return value o
 [10:16:01] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
 [10:16:01] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
 [10:16:08] [Async Chat Thread - #18/INFO]: [Not Secure] <parsahigh> motmani?
+[10:16:14] [Thread-9/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.141.194:1691, peerAddr=5.127.212.134:18392, claimAddress=209.25.143.2:43784, claimToken=[44, 0, 60, -47, 25, -115, -62, 6, -101, 5, 127, -44, -122, 71, -40, -28, 83, 93, 34, -85, 8, 102, 100, 47, 110, 0, 0, 0, 0, 0, 8, -22, -69, 0, 0, 0, 0, 0, 50, 3, 1, 98, 34, -85, 8, 0, 0, 0, 0, 14, 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, -45, -71, -85, -111, 70, -102, -124, 2, -121, -5, 124, -18, -1, 2, -32, -58], tunnelServerId=4, dataCenterId=14}
+[10:16:14] [Thread-9/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[10:16:14] [Thread-9/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.143.2:43784 to claim client
+[10:16:14] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[10:16:14] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[10:16:14] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[10:16:14] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[10:16:14] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] failed to get Minecraft server from Bukkit.getServer()
+[10:16:14] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[10:16:14] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[10:16:14] [User Authenticator #9/INFO]: UUID of player amirreza_1388 is 8fd17e6d-5f83-3f11-89bb-bfdd5724477a
+[10:16:14] [Server thread/INFO]: amirreza_1388 joined the game
+[10:16:14] [Server thread/INFO]: amirreza_1388[/127.0.0.1:41546] logged in with entity id 38433 at ([world]751.8044919664537, 62.110764179899974, 560.6047844898061)
+[10:16:25] [Async Chat Thread - #16/INFO]: [Not Secure] <parde> وسظ اب نکارش یه جی نزدیک و زمین
+[10:16:53] [Async Chat Thread - #18/INFO]: [Not Secure] <parde> الان کوچنی
+[10:17:03] [Async Chat Thread - #16/INFO]: [Not Secure] <parsahigh> dakhel vilage
+[10:17:08] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
