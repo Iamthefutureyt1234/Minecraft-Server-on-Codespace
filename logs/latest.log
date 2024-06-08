@@ -6785,3 +6785,4 @@ java.net.SocketException: Connection reset
 [14:12:39] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
 [14:12:39] [Thread-14/INFO]: [Geyser-Spigot] There's a new Geyser update available to support Bedrock version 1.20.80. Download it here: https://geysermc.org/download
 [14:12:39] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 4.10.2, you're on: 4.9.3
+[14:16:35] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
