@@ -2387,3 +2387,4 @@ java.lang.NullPointerException: Cannot read field "g" because the return value o
 [10:33:11] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
 [10:34:00] [Async Chat Thread - #23/INFO]: [Not Secure] <parsahigh> jabar koni pa bio
 [10:34:16] [Async Chat Thread - #23/INFO]: [Not Secure] <parde> دارم ایام
+[10:35:38] [Server thread/INFO]: THEfutureYT issued server command: /tp @s 30 22.5 -99
