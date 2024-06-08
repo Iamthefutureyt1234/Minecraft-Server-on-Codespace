@@ -369,6 +369,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "rotten_flesh": "2024-06-08 10:28:17 +0000",
+      "cooked_beef": "2024-06-08 12:14:37 +0000",
       "beef": "2024-06-08 11:48:24 +0000",
       "porkchop": "2024-06-08 11:44:32 +0000"
     },
@@ -1082,9 +1083,9 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
+  "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
-      "iron_helmet": "2024-06-08 12:08:57 +0000"
+      "has_shulker_shell": "2024-06-08 12:03:22 +0000"
     },
     "done": true
   },
@@ -1094,9 +1095,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/shulker_box": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "has_shulker_shell": "2024-06-08 12:03:22 +0000"
+      "iron_helmet": "2024-06-08 12:08:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-06-08 12:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-06-08 12:15:51 +0000"
     },
     "done": true
   },
