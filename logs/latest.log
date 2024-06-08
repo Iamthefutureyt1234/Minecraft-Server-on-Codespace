@@ -69,3 +69,29 @@
 [18:58:33] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.2.3-SNAPSHOT (git-master-29bd896)
 [18:58:33] [Server thread/INFO]: [Geyser-Spigot] 
 [18:58:33] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[18:58:35] [Thread-9/INFO]: [gg.playit.minecraft.PlayitKeysSetup] found minecraft java tunnel: policy-lol.joinmc.link
+[18:58:35] [Thread-9/INFO]: [gg.playit.minecraft.PlayitManager] keys and tunnel setup
+[18:58:35] [Thread-9/INFO]: playit.gg: WARNING:  plugin is running with a guest account
+[18:58:35] [Thread-9/INFO]: playit.gg: see server console for setup URL
+[18:58:35] [Thread-9/INFO]: [gg.playit.minecraft.PlayitManager] setup playit.gg account: https://playit.gg/login/guest-account/000100000000000000000008eabb6664a9db010000000002317b631e8d8df054e1614d4885e364541f55f0758b7f4c2321a0bb922032d07c
+[18:58:35] [Thread-9/INFO]: playit.gg: tunnel setup
+[18:58:35] [Thread-9/INFO]: playit.gg: policy-lol.joinmc.link
+[18:58:36] [Thread-9/WARN]: [gg.playit.control.ChannelSetup] Got IO error working with :control.playit.gg/2602:fbaf:840:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
+[18:58:36] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[18:58:50] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:25565
+[18:58:50] [Server thread/INFO]: [Geyser-Spigot] Done (16.294s)! Run /geyser help for help!
+[18:58:50] [Server thread/INFO]: Running delayed init tasks
+[18:58:50] [Server thread/INFO]: Done (28.906s)! For help, type "help"
+[18:58:50] [Server thread/INFO]: Timings Reset
+[18:58:50] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[18:58:50] [Server thread/INFO]: [voicechat] Loading plugins
+[18:58:50] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[18:58:50] [Server thread/INFO]: [voicechat] Initializing plugins
+[18:58:50] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[18:58:50] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[18:58:50] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[18:58:50] [Thread-14/INFO]: [Geyser-Spigot] There's a new Geyser update available to support Bedrock version 1.20.80. Download it here: https://geysermc.org/download
+[18:58:51] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 4.10.2, you're on: 4.9.3
+[18:59:00] [Server thread/INFO]: Saving the game (this may take a moment!)
+[18:59:04] [Server thread/INFO]: Saved the game
+[18:59:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3915ms or 78 ticks behind
