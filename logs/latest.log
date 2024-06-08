@@ -156,3 +156,10 @@
 [19:47:25] [Async Chat Thread - #1/INFO]: [Not Secure] <parsahigh> nmidonam
 [19:48:41] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
 [19:50:06] [Async Chat Thread - #2/INFO]: [Not Secure] <parsahigh> dehban kho noma
+[19:50:39] [Async Chat Thread - #3/INFO]: [Not Secure] <parsahigh> bkhos
+[19:51:23] [Async Chat Thread - #2/INFO]: [Not Secure] <pouyaj> من میرم 1.20 دانلود کنم میام
+[19:51:27] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[19:51:27] [Server thread/INFO]: pouyaj lost connection: Disconnected
+[19:51:27] [Server thread/INFO]: [voicechat] Disconnecting client pouyaj
+[19:51:27] [Server thread/INFO]: pouyaj left the game
+[19:51:28] [Async Chat Thread - #3/INFO]: [Not Secure] <parsahigh> ok
