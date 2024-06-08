@@ -24,3 +24,72 @@
 [15:16:13] [Server thread/INFO]: [ViaBackwards] Registering protocols...
 [15:16:14] [Server thread/INFO]: [OpenInv] Loading server plugin OpenInv v4.4.2
 [15:16:14] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.2.3-SNAPSHOT
+[15:16:15] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[15:16:15] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[15:16:15] [Server thread/INFO]: [playit-gg] Loading server plugin playit-gg v0.1.4
+[15:16:15] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v4.9.2
+[15:16:15] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.15
+[15:16:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:16:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:16:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:16:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:16:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:16:15] [Server thread/INFO]: Preparing level "world"
+[15:16:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:16:17] [Server thread/INFO]: Time elapsed: 417 ms
+[15:16:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:16:17] [Server thread/INFO]: Time elapsed: 446 ms
+[15:16:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:16:17] [Server thread/INFO]: Time elapsed: 123 ms
+[15:16:17] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
+[15:16:18] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3/1.20.4 (765)
+[15:16:18] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.4.2
+[15:16:18] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.2.3-SNAPSHOT
+[15:16:18] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
+[15:16:18] [Thread-7/WARN]: java.lang.ClassNotFoundException: net.md5.bungee.Core
+[15:16:18] [Thread-7/WARN]: 	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:445)
+[15:16:18] [Thread-7/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:593)
+[15:16:18] [Thread-7/WARN]: 	at java.base/java.net.FactoryURLClassLoader.loadClass(URLClassLoader.java:872)
+[15:16:18] [Thread-7/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[15:16:18] [Thread-7/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[15:16:18] [Thread-7/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[15:16:18] [Thread-7/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[15:16:18] [Thread-7/WARN]: 	at ViaVersion-4.9.3.jar//net.md_5.bungee.api.chat.TranslatableComponentDeserializer$1.run(TranslatableComponentDeserializer.java:35)
+[15:16:18] [Thread-7/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[15:16:19] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
+[15:16:19] [Thread-9/INFO]: [gg.playit.minecraft.PlayitKeysSetup] secret key found, checking
+[15:16:19] [Thread-9/INFO]: [gg.playit.minecraft.PlayitKeysSetup] check secret
+[15:16:19] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.15
+[15:16:20] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.4-R0.1
+[15:16:20] [Server thread/INFO]: [voicechat] Compatibility version 18
+[15:16:20] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[15:16:20] [Server thread/INFO]: [voicechat] Successfully added ViaVersion mappings
+[15:16:20] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[15:16:20] [Server thread/INFO]: [Geyser-Spigot] 
+[15:16:20] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.2.3-SNAPSHOT (git-master-29bd896)
+[15:16:20] [Server thread/INFO]: [Geyser-Spigot] 
+[15:16:20] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[15:16:21] [Thread-9/INFO]: [gg.playit.minecraft.PlayitKeysSetup] found minecraft java tunnel: policy-lol.joinmc.link
+[15:16:21] [Thread-9/INFO]: [gg.playit.minecraft.PlayitManager] keys and tunnel setup
+[15:16:21] [Thread-9/INFO]: playit.gg: WARNING:  plugin is running with a guest account
+[15:16:21] [Thread-9/INFO]: playit.gg: see server console for setup URL
+[15:16:22] [Thread-9/INFO]: [gg.playit.minecraft.PlayitManager] setup playit.gg account: https://playit.gg/login/guest-account/000100000000000000000008eabb666475c6010000000002f13991a6673152c40041435f0e93baf9aeca38fe66c2ff97ad928350b2504796
+[15:16:22] [Thread-9/INFO]: playit.gg: tunnel setup
+[15:16:22] [Thread-9/INFO]: playit.gg: policy-lol.joinmc.link
+[15:16:22] [Thread-9/WARN]: [gg.playit.control.ChannelSetup] Got IO error working with :control.playit.gg/2602:fbaf:840:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
+[15:16:24] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[15:16:25] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[15:16:34] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:25565
+[15:16:34] [Server thread/INFO]: [Geyser-Spigot] Done (13.732s)! Run /geyser help for help!
+[15:16:34] [Server thread/INFO]: Running delayed init tasks
+[15:16:34] [Server thread/INFO]: Done (26.493s)! For help, type "help"
+[15:16:34] [Server thread/INFO]: Timings Reset
+[15:16:34] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[15:16:34] [Server thread/INFO]: [voicechat] Loading plugins
+[15:16:34] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[15:16:34] [Server thread/INFO]: [voicechat] Initializing plugins
+[15:16:34] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[15:16:34] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[15:16:34] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[15:16:35] [Thread-14/INFO]: [Geyser-Spigot] There's a new Geyser update available to support Bedrock version 1.20.80. Download it here: https://geysermc.org/download
+[15:16:35] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 4.10.2, you're on: 4.9.3
