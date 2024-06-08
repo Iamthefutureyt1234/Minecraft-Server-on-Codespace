@@ -266,3 +266,5 @@ java.net.SocketException: Connection reset
 [15:38:01] [User Authenticator #3/INFO]: UUID of player amirreza_1388 is 8fd17e6d-5f83-3f11-89bb-bfdd5724477a
 [15:38:01] [Server thread/INFO]: amirreza_1388 joined the game
 [15:38:01] [Server thread/INFO]: amirreza_1388[/127.0.0.1:52366] logged in with entity id 4384 at ([world]2350.644700401429, 64.0, 1629.5446306445547)
+[15:40:31] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[15:41:09] [Async Chat Thread - #4/INFO]: [Not Secure] <parde> پاسیار یه دایمند وت بیوم چقه غذا وم ایی
