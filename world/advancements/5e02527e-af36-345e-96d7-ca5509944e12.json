@@ -1613,21 +1613,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "has_planks": "2024-06-08 10:57:43 +0000"
+      "has_bone_meal": "2024-06-08 10:31:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
-      "has_flint": "2024-06-08 10:53:30 +0000"
+      "has_bone_meal": "2024-06-08 10:31:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_stairs": {
+  "minecraft:recipes/building_blocks/bamboo_planks": {
     "criteria": {
-      "has_granite": "2024-06-08 11:06:51 +0000"
+      "has_logs": "2024-06-08 10:35:58 +0000"
     },
     "done": true
   },
@@ -1637,9 +1637,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
     "criteria": {
-      "has_granite": "2024-06-08 11:06:51 +0000"
+      "has_vine": "2024-06-08 10:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-06-08 10:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-06-08 10:57:43 +0000"
     },
     "done": true
   },
@@ -1649,39 +1661,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2024-06-08 10:31:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall": {
-    "criteria": {
-      "has_granite": "2024-06-08 11:06:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2024-06-08 11:04:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-06-08 11:06:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mangrove_stairs": {
     "criteria": {
       "has_planks": "2024-06-08 10:57:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-06-08 11:06:51 +0000"
     },
     "done": true
   },
@@ -1697,30 +1679,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_glow_ink_sac": "2024-06-08 11:18:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_granite": "2024-06-08 11:06:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2024-06-08 11:04:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_planks": {
-    "criteria": {
-      "has_logs": "2024-06-08 10:35:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mangrove_sign": {
     "criteria": {
       "has_planks": "2024-06-08 10:57:43 +0000"
@@ -1733,21 +1691,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2024-06-08 10:57:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2024-06-08 10:57:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-06-08 11:04:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+  "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
-      "has_granite": "2024-06-08 11:06:51 +0000"
+      "has_string": "2024-06-08 11:04:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/mangrove_door": {
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
-      "has_planks": "2024-06-08 10:57:43 +0000"
+      "has_string": "2024-06-08 11:04:26 +0000"
     },
     "done": true
   },
@@ -1763,6 +1733,54 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-06-08 11:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-06-08 11:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-06-08 11:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-06-08 11:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-06-08 11:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-06-08 11:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-06-08 11:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-06-08 11:06:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-06-08 11:06:51 +0000"
@@ -1775,33 +1793,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mangrove_slab": {
-    "criteria": {
-      "has_planks": "2024-06-08 10:57:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-06-08 11:06:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/loom": {
+  "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
-      "has_string": "2024-06-08 11:04:26 +0000"
+      "has_glow_ink_sac": "2024-06-08 11:18:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
-      "has_vine": "2024-06-08 10:44:59 +0000"
+      "has_raw_copper": "2024-06-08 11:27:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
-      "has_bone_meal": "2024-06-08 10:31:37 +0000"
+      "has_raw_copper": "2024-06-08 11:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-06-08 11:27:38 +0000"
     },
     "done": true
   },
