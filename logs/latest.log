@@ -6667,3 +6667,21 @@ java.net.SocketException: Connection reset
 [14:05:53] [nioEventLoopGroup-2-2/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to minecraft server
 [14:05:59] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
 [14:10:00] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[14:11:42] [Server thread/INFO]: Stopping server
+[14:11:42] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.15
+[14:11:42] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.9.2
+[14:11:42] [Server thread/INFO]: [playit-gg] Disabling playit-gg v0.1.4
+[14:11:42] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.2.3-SNAPSHOT
+[14:11:42] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[14:11:43] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[14:11:43] [Server thread/INFO]: [OpenInv] Disabling OpenInv v4.4.2
+[14:11:43] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.9.3
+[14:11:43] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[14:11:43] [Server thread/INFO]: Saving players
+[14:11:43] [Server thread/INFO]: Saving worlds
+[14:11:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:11:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[14:11:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[14:11:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[14:11:43] [Server thread/INFO]: [ChunkHolderManager] Saved 3 block chunks, 234 entity chunks, 0 poi chunks in world 'world' in 0.26s
+[14:11:45] [Thread-9/INFO]: [gg.playit.minecraft.PlayitManager] control channel shutdown
