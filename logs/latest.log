@@ -419,3 +419,10 @@ java.net.SocketException: Connection reset
 [16:12:01] [Server thread/WARN]: parde moved too quickly! -15.681861769920943,-1.1767592750642422,-2.7080650809596136
 [16:12:41] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
 [16:14:13] [Server thread/INFO]: parde has made the advancement [Cover Me with Diamonds]
+[16:16:05] [Async Chat Thread - #12/INFO]: [Not Secure] <parde> نگاه کن
+[16:16:06] [Async Chat Thread - #12/INFO]: [Not Secure] <parsahigh> pedar sag
+[16:16:31] [Async Chat Thread - #12/INFO]: [Not Secure] <parde> منه زی هر 5 استک 1 دایمند
+[16:16:41] [Async Chat Thread - #13/INFO]: [Not Secure] <parsahigh> 4
+[16:16:42] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[16:16:51] [Async Chat Thread - #12/INFO]: [Not Secure] <parde> الان 4 استک نیاری
+[16:16:57] [Async Chat Thread - #13/INFO]: [Not Secure] <parde> مو ایخوم
