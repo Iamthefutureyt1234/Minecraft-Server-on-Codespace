@@ -3488,3 +3488,39 @@ java.io.IOException: Connection timed out
 [11:34:12] [Server thread/INFO]: pouyaj[/127.0.0.1:40474] logged in with entity id 89935 at ([world]254.1583214850162, 87.0, 83.81963143723601)
 [11:34:32] [Async Chat Thread - #50/INFO]: [Not Secure] <parsahigh> dehban khom va jabar yar vabim
 [11:35:22] [Async Chat Thread - #51/INFO]: [Not Secure] <mohammad1388di> داخل چه؟
+[11:35:53] [Async Chat Thread - #51/INFO]: [Not Secure] <mohammad1388di> بخوس
+[11:35:59] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[11:35:59] [Server thread/INFO]: pouyaj lost connection: Disconnected
+[11:35:59] [Server thread/INFO]: [voicechat] Disconnecting client pouyaj
+[11:35:59] [Server thread/INFO]: pouyaj left the game
+[11:36:00] [Thread-9/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.141.194:1691, peerAddr=5.127.250.63:43007, claimAddress=209.25.143.2:43785, claimToken=[44, 0, 60, -47, 25, -115, -62, 6, -101, 5, 127, -6, 63, -89, -1, 49, 15, 17, -123, -85, 9, 102, 100, 66, 32, 0, 0, 0, 0, 0, 8, -22, -69, 0, 0, 0, 0, 0, 50, 3, 1, 30, -123, -85, 9, 0, 0, 0, 0, 14, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -30, 115, -38, -62, -49, -40, 81, -73, 65, 115, -59, -90, 124, 15, 6, -18], tunnelServerId=1, dataCenterId=14}
+[11:36:00] [Thread-9/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[11:36:00] [Thread-9/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.143.2:43785 to claim client
+[11:36:00] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[11:36:00] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[11:36:00] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[11:36:00] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[11:36:00] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] failed to get Minecraft server from Bukkit.getServer()
+[11:36:00] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[11:36:00] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[11:36:09] [Async Chat Thread - #51/INFO]: [Not Secure] <parsahigh> yani che?
+[11:36:10] [Thread-9/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.141.194:1691, peerAddr=5.127.250.63:43008, claimAddress=209.25.143.2:43785, claimToken=[44, 0, 60, -47, 25, -115, -62, 6, -101, 5, 127, -6, 63, -88, 0, -21, 45, -125, -92, -85, 9, 102, 100, 66, 42, 0, 0, 0, 0, 0, 8, -22, -69, 0, 0, 0, 0, 0, 50, 3, 1, -22, -92, -85, 9, 0, 0, 0, 0, 14, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 43, -26, 8, 40, -124, -75, -52, -89, 89, 61, 30, 63, -63, 92, -19, 59], tunnelServerId=1, dataCenterId=14}
+[11:36:10] [Thread-9/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[11:36:10] [Thread-9/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.143.2:43785 to claim client
+[11:36:10] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[11:36:10] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[11:36:10] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[11:36:10] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[11:36:10] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] failed to get Minecraft server from Bukkit.getServer()
+[11:36:10] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[11:36:10] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[11:36:11] [User Authenticator #20/INFO]: UUID of player pouyaj is 9b12db17-91cd-3b3f-998a-81757dc4b302
+[11:36:11] [Server thread/INFO]: pouyaj joined the game
+[11:36:11] [Server thread/INFO]: pouyaj[/127.0.0.1:44180] logged in with entity id 91577 at ([world]329.69999998807907, 109.0, 36.60410339180129)
+[11:36:24] [Async Chat Thread - #50/INFO]: [Not Secure] <mohammad1388di> ایگوم داخل چه یار وابیت؟
+[11:36:26] [Async Chat Thread - #51/INFO]: [Not Secure] <parsahigh> yani che
+[11:36:27] [Async Chat Thread - #51/INFO]: [Not Secure] <mohammad1388di> فارمل؟
+[11:36:30] [Async Chat Thread - #50/INFO]: [Not Secure] <pouyaj> k bkhosit da
+[11:36:42] [Async Chat Thread - #51/INFO]: [Not Secure] <mohammad1388di> کیه نیخوسه؟
+[11:36:43] [Async Chat Thread - #50/INFO]: [Not Secure] <parsahigh> hame chi
+[11:36:57] [Async Chat Thread - #51/INFO]: [Not Secure] <mohammad1388di> جبار حزب باد

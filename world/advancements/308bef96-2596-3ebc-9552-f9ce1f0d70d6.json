@@ -1141,18 +1141,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2024-06-07 19:58:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2024-06-07 19:58:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2024-06-07 19:49:23 +0000"
@@ -1168,6 +1156,18 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2024-06-07 19:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-06-07 19:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-06-07 19:58:32 +0000"
     },
     "done": true
   },
