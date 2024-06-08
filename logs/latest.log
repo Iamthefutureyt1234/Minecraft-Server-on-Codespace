@@ -5744,3 +5744,5 @@ java.net.SocketException: Connection reset
 [12:27:48] [Server thread/INFO]: [THEfutureYT: Set own game mode to Spectator Mode]
 [12:27:57] [Server thread/INFO]: THEfutureYT issued server command: /tp @s 2100 -31.5 1800
 [12:27:57] [Server thread/INFO]: [THEfutureYT: Teleported THEfutureYT to 2100.500000, -31.500000, 1800.500000]
+[12:28:32] [Server thread/INFO]: THEfutureYT issued server command: /gamemode survival
+[12:28:32] [Server thread/INFO]: [THEfutureYT: Set own game mode to Survival Mode]
