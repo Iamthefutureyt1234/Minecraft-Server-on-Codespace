@@ -1554,7 +1554,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-06-08 10:09:53 +0000",
-      "minecraft:nether_wastes": "2024-06-08 10:52:52 +0000"
+      "minecraft:nether_wastes": "2024-06-08 10:52:52 +0000",
+      "minecraft:warped_forest": "2024-06-08 10:58:17 +0000"
     },
     "done": false
   },
@@ -1717,6 +1718,30 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-06-08 10:18:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-06-08 10:58:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-06-08 10:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-06-08 10:58:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-06-08 10:53:30 +0000"
     },
     "done": true
   },
