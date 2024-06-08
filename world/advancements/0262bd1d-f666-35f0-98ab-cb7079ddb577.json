@@ -7,9 +7,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2024-06-08 12:32:18 +0000",
       "minecraft:forest": "2024-06-06 10:23:01 +0000",
       "minecraft:deep_dark": "2024-06-08 12:22:43 +0000",
       "minecraft:sparse_jungle": "2024-06-08 10:33:05 +0000",
+      "minecraft:ocean": "2024-06-08 12:32:35 +0000",
+      "minecraft:river": "2024-06-08 12:32:33 +0000",
       "minecraft:lush_caves": "2024-06-08 11:47:59 +0000",
       "minecraft:dripstone_caves": "2024-06-08 10:30:37 +0000",
       "minecraft:savanna": "2024-06-06 11:52:56 +0000",
@@ -48,6 +51,7 @@
       "minecraft:spider": "2024-06-08 12:20:33 +0000",
       "minecraft:zombie": "2024-06-08 10:23:18 +0000",
       "minecraft:creeper": "2024-06-08 11:44:52 +0000",
+      "minecraft:drowned": "2024-06-08 12:32:39 +0000",
       "minecraft:zombie_villager": "2024-06-08 12:21:12 +0000"
     },
     "done": false
@@ -1132,6 +1136,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-06-08 12:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-06-08 12:33:09 +0000"
     },
     "done": true
   },
