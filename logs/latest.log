@@ -624,3 +624,6 @@ java.lang.NullPointerException: Cannot read field "g" because the return value o
 [09:53:56] [User Authenticator #6/INFO]: UUID of player amirreza_1388 is 8fd17e6d-5f83-3f11-89bb-bfdd5724477a
 [09:53:56] [Server thread/INFO]: amirreza_1388 joined the game
 [09:53:56] [Server thread/INFO]: amirreza_1388[/127.0.0.1:45118] logged in with entity id 13734 at ([world]101.69999998807906, 61.0, 229.69999998807913)
+[09:56:39] [Async Chat Thread - #8/INFO]: [Not Secure] <parsahigh> yeeeeeees
+[09:56:52] [Async Chat Thread - #8/INFO]: [Not Secure] <GhasemAgha> کیر خر
+[09:57:05] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
