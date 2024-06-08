@@ -10,6 +10,7 @@
       "minecraft:flower_forest": "2024-06-08 09:53:41 +0000",
       "minecraft:beach": "2024-06-07 19:28:49 +0000",
       "minecraft:forest": "2024-06-06 17:44:48 +0000",
+      "minecraft:mangrove_swamp": "2024-06-08 09:57:34 +0000",
       "minecraft:sparse_jungle": "2024-06-06 17:48:27 +0000",
       "minecraft:river": "2024-06-07 19:26:14 +0000",
       "minecraft:lukewarm_ocean": "2024-06-07 19:56:58 +0000",
@@ -1523,6 +1524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2024-06-08 09:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-06-08 09:46:20 +0000"
@@ -1559,6 +1566,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2024-06-08 09:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2024-06-08 09:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-06-08 09:43:03 +0000"
@@ -1568,6 +1587,12 @@
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2024-06-08 09:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2024-06-08 09:58:23 +0000"
     },
     "done": true
   },
