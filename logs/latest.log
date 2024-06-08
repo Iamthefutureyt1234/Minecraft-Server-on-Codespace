@@ -3272,3 +3272,6 @@ java.io.IOException: Connection timed out
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
 [10:45:15] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
 [10:45:35] [Server thread/INFO]: parde issued server command: /seed
+[10:48:00] [Async Chat Thread - #31/INFO]: [Not Secure] <parsahigh> ikhey ba dehban sharik vabi ya mo
+[10:48:22] [Async Chat Thread - #31/INFO]: [Not Secure] <parde> سی چه کاری
+[10:48:43] [Async Chat Thread - #32/INFO]: [Not Secure] <parsahigh> si hamash
