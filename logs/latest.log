@@ -410,3 +410,6 @@ java.net.SocketException: Connection reset
 [16:05:30] [User Authenticator #6/INFO]: UUID of player parde is 2e13e020-0a32-3dae-849b-deda76751f74
 [16:05:31] [Server thread/INFO]: parde joined the game
 [16:05:31] [Server thread/INFO]: parde[/127.0.0.1:52616] logged in with entity id 14136 at ([world]2584.699999988079, -11.0, 1709.3483723000168)
+[16:08:39] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[16:09:26] [Async Chat Thread - #10/INFO]: [Not Secure] <parde> پاسیار ادرسه هونه نه بیه گم وابیوم
+[16:09:39] [Async Chat Thread - #10/INFO]: [Not Secure] <parsahigh> 2100 1800
