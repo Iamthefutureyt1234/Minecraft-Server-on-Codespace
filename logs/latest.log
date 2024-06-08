@@ -119,3 +119,4 @@
 [19:38:17] [Server thread/INFO]: pouyaj[/127.0.0.1:49050] logged in with entity id 221 at ([world]1927.8010152836519, 75.79673560066871, 1259.2352598550185)
 [19:38:53] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: 40de71bc-ef2b-4ded-ba66-5e333aa391a4, mapped to EntityChicken['Chicken'/537, uuid='40de71bc-ef2b-4ded-ba66-5e333aa391a4', l='ServerLevel[world]', x=2077.81, y=74.00, z=1529.10, cpos=[129, 95], tl=224185, v=true], can't add EntityChicken['Chicken'/539, uuid='40de71bc-ef2b-4ded-ba66-5e333aa391a4', l='ServerLevel[world]', x=2084.09, y=76.00, z=1532.16, cpos=[130, 95], tl=226754, v=false]
 [19:39:37] [Server thread/INFO]: pouyaj has made the advancement [Not Today, Thank You]
+[19:40:38] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
