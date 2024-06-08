@@ -6659,3 +6659,10 @@ java.net.SocketException: Connection reset
 [14:01:54] [Server thread/INFO]: mohammad1388di joined the game
 [14:01:54] [Server thread/INFO]: mohammad1388di[/127.0.0.1:38600] logged in with entity id 151001 at ([world]2269.498863393339, 61.00162176387212, 1571.9352888861408)
 [14:01:59] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[14:05:52] [Server thread/WARN]: mohammad1388di was kicked for floating too long!
+[14:05:52] [Server thread/INFO]: mohammad1388di lost connection: Flying is not enabled on this server
+[14:05:52] [Server thread/INFO]: [voicechat] Disconnecting client mohammad1388di
+[14:05:52] [Server thread/INFO]: mohammad1388di left the game
+[14:05:53] [nioEventLoopGroup-2-2/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to minecraft server
+[14:05:53] [nioEventLoopGroup-2-2/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to minecraft server
+[14:05:59] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
