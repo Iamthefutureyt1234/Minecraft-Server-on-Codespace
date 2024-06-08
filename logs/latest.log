@@ -3458,3 +3458,8 @@ java.io.IOException: Connection timed out
 [11:31:42] [Server thread/INFO]: mohammad1388di[/127.0.0.1:35206] logged in with entity id 87864 at ([world]1600.5, 67.0, 1864.5)
 [11:32:07] [Async Chat Thread - #48/INFO]: [Not Secure] <mohammad1388di> salam
 [11:32:13] [Async Chat Thread - #49/INFO]: [Not Secure] <parsahigh> s
+[11:32:22] [Async Chat Thread - #49/INFO]: [Not Secure] <mohammad1388di> کوچنی؟
+[11:32:28] [Async Chat Thread - #48/INFO]: [Not Secure] <parsahigh> 2100 1800
+[11:32:37] [Async Chat Thread - #48/INFO]: [Not Secure] <mohammad1388di> ویس تا بیام
+[11:33:23] [Server thread/WARN]: mohammad1388di moved too quickly! 10.995826940963752,-0.02442408821369213,-0.5565751399437886
+[11:33:27] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
