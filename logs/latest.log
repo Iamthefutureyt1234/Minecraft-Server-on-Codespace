@@ -528,3 +528,4 @@ java.net.SocketException: Connection reset
 [16:45:21] [Async Chat Thread - #22/INFO]: [Not Secure] <parsahigh> shishe
 [16:45:37] [Async Chat Thread - #23/INFO]: [Not Secure] <parde> نونم
 [16:48:47] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[16:52:47] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
