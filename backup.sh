@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the interval (in seconds)
-interval=180
+interval=60
 
 # Backup command
 perform_git_operations() {
