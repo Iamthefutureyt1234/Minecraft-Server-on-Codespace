@@ -5807,3 +5807,8 @@ java.net.SocketException: Connection reset
 [12:43:25] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] failed to get Minecraft server from Bukkit.getServer()
 [12:43:25] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
 [12:43:25] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[12:45:46] [nioEventLoopGroup-2-1/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[12:45:46] [nioEventLoopGroup-2-1/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[12:45:46] [Server thread/INFO]: THEfutureYT lost connection: Disconnected
+[12:45:46] [Server thread/INFO]: [voicechat] Disconnecting client THEfutureYT
+[12:45:46] [Server thread/INFO]: THEfutureYT left the game
