@@ -9,14 +9,16 @@
     "criteria": {
       "minecraft:beach": "2024-06-08 11:44:13 +0000",
       "minecraft:forest": "2024-06-07 10:38:03 +0000",
+      "minecraft:mangrove_swamp": "2024-06-08 19:18:57 +0000",
       "minecraft:sparse_jungle": "2024-06-07 10:41:02 +0000",
-      "minecraft:jungle": "2024-06-08 11:40:35 +0000",
       "minecraft:river": "2024-06-08 11:40:29 +0000",
       "minecraft:lukewarm_ocean": "2024-06-08 17:59:01 +0000",
       "minecraft:stony_shore": "2024-06-08 11:44:32 +0000",
       "minecraft:dripstone_caves": "2024-06-07 19:14:44 +0000",
+      "minecraft:jungle": "2024-06-08 11:40:35 +0000",
       "minecraft:savanna": "2024-06-08 18:00:15 +0000",
       "minecraft:bamboo_jungle": "2024-06-08 11:54:42 +0000",
+      "minecraft:windswept_savanna": "2024-06-08 19:18:18 +0000",
       "minecraft:plains": "2024-06-07 10:41:19 +0000"
     },
     "done": false
@@ -1175,6 +1177,24 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2024-06-08 17:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-06-08 19:15:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-06-08 19:15:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-06-08 19:15:21 +0000"
     },
     "done": true
   },
