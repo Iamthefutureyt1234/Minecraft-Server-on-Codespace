@@ -872,3 +872,4 @@ java.net.SocketException: Connection reset
 	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
 [17:12:51] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[17:16:51] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
