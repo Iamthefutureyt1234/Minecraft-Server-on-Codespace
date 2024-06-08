@@ -5,7 +5,7 @@ interval=60
 
 # Backup command
 perform_git_operations() {
-    git add . && git opcommit -m "Backup: $(date +'%d %b %y, %I:%M %p')" && git push
+    git add . && git commit -m "Backup: $(date +'%d %b %y, %I:%M %p')" && git push
 }
 
 # Running loop
