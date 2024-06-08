@@ -3324,3 +3324,4 @@ java.io.IOException: Connection timed out
 [11:01:19] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
 [11:03:25] [Async Chat Thread - #40/INFO]: [Not Secure] <parsahigh> kir
 [11:03:34] [Async Chat Thread - #41/INFO]: [Not Secure] <parde> کصخل
+[11:05:19] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
