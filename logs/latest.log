@@ -6685,3 +6685,103 @@ java.net.SocketException: Connection reset
 [14:11:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
 [14:11:43] [Server thread/INFO]: [ChunkHolderManager] Saved 3 block chunks, 234 entity chunks, 0 poi chunks in world 'world' in 0.26s
 [14:11:45] [Thread-9/INFO]: [gg.playit.minecraft.PlayitManager] control channel shutdown
+[14:11:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:11:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[14:11:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[14:11:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[14:11:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[14:12:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:12:16] [ServerMain/INFO]: Loaded 1174 recipes
+[14:12:17] [ServerMain/INFO]: Loaded 1271 advancements
+[14:12:17] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[14:12:17] [Server thread/INFO]: Loading properties
+[14:12:17] [Server thread/INFO]: This server is running Paper version git-Paper-464 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: e709245)
+[14:12:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:12:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:12:19] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[14:12:19] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[14:12:20] [Server thread/INFO]: Default game type: SURVIVAL
+[14:12:20] [Server thread/INFO]: Generating keypair
+[14:12:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:12:20] [Server thread/INFO]: Using epoll channel type
+[14:12:20] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:12:20] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[14:12:21] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v4.9.3
+[14:12:21] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
+[14:12:22] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[14:12:22] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[14:12:22] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[14:12:22] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[14:12:23] [Server thread/INFO]: [OpenInv] Loading server plugin OpenInv v4.4.2
+[14:12:23] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.2.3-SNAPSHOT
+[14:12:24] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[14:12:24] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[14:12:24] [Server thread/INFO]: [playit-gg] Loading server plugin playit-gg v0.1.4
+[14:12:24] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v4.9.2
+[14:12:24] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.15
+[14:12:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:12:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:12:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:12:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:12:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:12:24] [Server thread/INFO]: Preparing level "world"
+[14:12:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:12:25] [Server thread/INFO]: Time elapsed: 359 ms
+[14:12:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:12:26] [Server thread/INFO]: Time elapsed: 214 ms
+[14:12:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:12:26] [Server thread/INFO]: Time elapsed: 101 ms
+[14:12:26] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
+[14:12:26] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3/1.20.4 (765)
+[14:12:26] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.4.2
+[14:12:26] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.2.3-SNAPSHOT
+[14:12:26] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
+[14:12:27] [Thread-7/WARN]: java.lang.ClassNotFoundException: net.md5.bungee.Core
+[14:12:27] [Thread-7/WARN]: 	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:445)
+[14:12:27] [Thread-7/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:593)
+[14:12:27] [Thread-7/WARN]: 	at java.base/java.net.FactoryURLClassLoader.loadClass(URLClassLoader.java:872)
+[14:12:27] [Thread-7/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[14:12:27] [Thread-7/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[14:12:27] [Thread-7/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[14:12:27] [Thread-7/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[14:12:27] [Thread-7/WARN]: 	at ViaVersion-4.9.3.jar//net.md_5.bungee.api.chat.TranslatableComponentDeserializer$1.run(TranslatableComponentDeserializer.java:35)
+[14:12:27] [Thread-7/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[14:12:27] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
+[14:12:27] [Thread-9/INFO]: [gg.playit.minecraft.PlayitKeysSetup] secret key found, checking
+[14:12:27] [Thread-9/INFO]: [gg.playit.minecraft.PlayitKeysSetup] check secret
+[14:12:27] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.15
+[14:12:27] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.4-R0.1
+[14:12:27] [Server thread/INFO]: [voicechat] Compatibility version 18
+[14:12:28] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[14:12:28] [Server thread/INFO]: [voicechat] Successfully added ViaVersion mappings
+[14:12:28] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[14:12:28] [Server thread/INFO]: [Geyser-Spigot] 
+[14:12:28] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.2.3-SNAPSHOT (git-master-29bd896)
+[14:12:28] [Server thread/INFO]: [Geyser-Spigot] 
+[14:12:28] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[14:12:29] [Thread-9/INFO]: [gg.playit.minecraft.PlayitKeysSetup] found minecraft java tunnel: policy-lol.joinmc.link
+[14:12:29] [Thread-9/INFO]: [gg.playit.minecraft.PlayitManager] keys and tunnel setup
+[14:12:29] [Thread-9/INFO]: playit.gg: WARNING:  plugin is running with a guest account
+[14:12:29] [Thread-9/INFO]: playit.gg: see server console for setup URL
+[14:12:29] [Thread-9/INFO]: [gg.playit.minecraft.PlayitManager] setup playit.gg account: https://playit.gg/login/guest-account/000100000000000000000008eabb666466cd0100000000025c0eee573157979da00cddd665ad89db44704c48bc29c562e75dfc40d656416c
+[14:12:29] [Thread-9/INFO]: playit.gg: tunnel setup
+[14:12:29] [Thread-9/INFO]: playit.gg: policy-lol.joinmc.link
+[14:12:32] [Thread-9/WARN]: [gg.playit.control.ChannelSetup] Got IO error working with :control.playit.gg/2602:fbaf:840:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
+[14:12:32] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[14:12:33] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[14:12:38] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:25565
+[14:12:38] [Server thread/INFO]: [Geyser-Spigot] Done (10.548s)! Run /geyser help for help!
+[14:12:39] [Server thread/INFO]: Running delayed init tasks
+[14:12:39] [Server thread/INFO]: Done (21.689s)! For help, type "help"
+[14:12:39] [Server thread/INFO]: Timings Reset
+[14:12:39] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[14:12:39] [Server thread/INFO]: [voicechat] Loading plugins
+[14:12:39] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[14:12:39] [Server thread/INFO]: [voicechat] Initializing plugins
+[14:12:39] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[14:12:39] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[14:12:39] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[14:12:39] [Thread-14/INFO]: [Geyser-Spigot] There's a new Geyser update available to support Bedrock version 1.20.80. Download it here: https://geysermc.org/download
+[14:12:39] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 4.10.2, you're on: 4.9.3
