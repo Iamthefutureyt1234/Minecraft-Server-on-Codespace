@@ -12,8 +12,10 @@
       "minecraft:sparse_jungle": "2024-06-07 10:41:02 +0000",
       "minecraft:jungle": "2024-06-08 11:40:35 +0000",
       "minecraft:river": "2024-06-08 11:40:29 +0000",
+      "minecraft:lukewarm_ocean": "2024-06-08 17:59:01 +0000",
       "minecraft:stony_shore": "2024-06-08 11:44:32 +0000",
       "minecraft:dripstone_caves": "2024-06-07 19:14:44 +0000",
+      "minecraft:savanna": "2024-06-08 18:00:15 +0000",
       "minecraft:bamboo_jungle": "2024-06-08 11:54:42 +0000",
       "minecraft:plains": "2024-06-07 10:41:19 +0000"
     },
@@ -1119,6 +1121,60 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2024-06-08 12:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-06-08 17:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-06-08 17:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-06-08 17:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-06-08 17:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-06-08 17:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-06-08 17:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-06-08 17:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-06-08 17:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-06-08 17:56:27 +0000"
     },
     "done": true
   },
