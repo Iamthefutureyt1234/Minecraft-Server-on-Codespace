@@ -767,9 +767,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/copper_block": {
+  "minecraft:recipes/decorations/smoker": {
     "criteria": {
-      "has_copper_ingot": "2024-06-08 10:39:10 +0000"
+      "has_furnace": "2024-06-08 10:37:58 +0000"
     },
     "done": true
   },
@@ -779,21 +779,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2024-06-08 10:39:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-06-08 10:38:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/smoker": {
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
-      "has_furnace": "2024-06-08 10:37:58 +0000"
+      "has_iron_pickaxe": "2024-06-08 10:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-06-08 10:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-06-08 10:39:10 +0000"
     },
     "done": true
   },
@@ -803,9 +809,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
-      "has_iron_pickaxe": "2024-06-08 10:38:27 +0000"
+      "has_potato": "2024-06-08 10:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-06-08 10:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-06-08 10:54:12 +0000"
     },
     "done": true
   },
