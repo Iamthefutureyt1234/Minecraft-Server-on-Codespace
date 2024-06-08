@@ -19,6 +19,7 @@
       "minecraft:dripstone_caves": "2024-06-08 11:02:48 +0000",
       "minecraft:ocean": "2024-06-08 09:41:26 +0000",
       "minecraft:sunflower_plains": "2024-06-07 09:53:16 +0000",
+      "minecraft:meadow": "2024-06-08 11:06:35 +0000",
       "minecraft:savanna": "2024-06-07 09:50:03 +0000",
       "minecraft:bamboo_jungle": "2024-06-07 09:41:53 +0000",
       "minecraft:windswept_savanna": "2024-06-08 10:34:30 +0000",
@@ -1410,9 +1411,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-06-08 11:09:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-06-08 10:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-06-08 11:09:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-06-08 11:09:58 +0000"
     },
     "done": true
   },
