@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:forest": "2024-06-06 10:23:01 +0000",
       "minecraft:sparse_jungle": "2024-06-08 10:33:05 +0000",
+      "minecraft:lush_caves": "2024-06-08 11:47:59 +0000",
       "minecraft:dripstone_caves": "2024-06-08 10:30:37 +0000",
       "minecraft:savanna": "2024-06-06 11:52:56 +0000",
       "minecraft:plains": "2024-06-06 10:50:32 +0000"
@@ -42,7 +43,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-06-06 11:49:53 +0000",
-      "minecraft:zombie": "2024-06-08 10:23:18 +0000"
+      "minecraft:zombie": "2024-06-08 10:23:18 +0000",
+      "minecraft:creeper": "2024-06-08 11:44:52 +0000"
     },
     "done": false
   },
@@ -366,7 +368,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "rotten_flesh": "2024-06-08 10:28:17 +0000"
+      "rotten_flesh": "2024-06-08 10:28:17 +0000",
+      "beef": "2024-06-08 11:48:24 +0000",
+      "porkchop": "2024-06-08 11:44:32 +0000"
     },
     "done": false
   },
@@ -610,6 +614,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-06-08 11:48:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-06-08 11:42:05 +0000"
@@ -628,9 +638,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-06-08 11:44:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-06-08 11:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-06-08 11:44:54 +0000"
     },
     "done": true
   },

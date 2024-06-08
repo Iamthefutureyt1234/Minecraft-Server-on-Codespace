@@ -12,6 +12,7 @@
       "minecraft:sparse_jungle": "2024-06-07 10:41:02 +0000",
       "minecraft:jungle": "2024-06-08 11:40:35 +0000",
       "minecraft:river": "2024-06-08 11:40:29 +0000",
+      "minecraft:stony_shore": "2024-06-08 11:44:32 +0000",
       "minecraft:dripstone_caves": "2024-06-07 19:14:44 +0000",
       "minecraft:plains": "2024-06-07 10:41:19 +0000"
     },
@@ -433,6 +434,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-06-08 11:47:53 +0000",
       "cooked_beef": "2024-06-07 19:11:20 +0000"
     },
     "done": false
@@ -451,6 +453,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-06-08 11:46:57 +0000",
       "minecraft:spider": "2024-06-07 19:13:53 +0000",
       "minecraft:zombie": "2024-06-07 19:15:48 +0000"
     },
@@ -1002,6 +1005,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-06-08 11:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-06-08 11:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-06-08 11:41:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2024-06-08 11:43:05 +0000"
@@ -1032,21 +1053,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2024-06-08 11:41:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-06-08 11:43:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_block": {
-    "criteria": {
-      "has_bamboo": "2024-06-08 11:41:52 +0000"
     },
     "done": true
   },
@@ -1056,9 +1065,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
+  "minecraft:recipes/misc/bone_meal": {
     "criteria": {
-      "has_bamboo": "2024-06-08 11:41:52 +0000"
+      "has_bone": "2024-06-08 11:47:50 +0000"
     },
     "done": true
   },
