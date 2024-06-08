@@ -1629,5 +1629,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-06-08 20:01:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
