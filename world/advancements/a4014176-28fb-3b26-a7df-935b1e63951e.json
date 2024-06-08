@@ -559,6 +559,7 @@
       "suspicious_stew": "2024-06-06 17:01:26 +0000",
       "cooked_mutton": "2024-06-06 17:15:46 +0000",
       "cooked_beef": "2024-06-06 17:07:51 +0000",
+      "beef": "2024-06-08 11:46:20 +0000",
       "carrot": "2024-06-06 17:46:54 +0000"
     },
     "done": false
@@ -1820,6 +1821,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-06-08 11:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2024-06-08 11:46:07 +0000"
     },
     "done": true
   },
