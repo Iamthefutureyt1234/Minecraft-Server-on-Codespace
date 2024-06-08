@@ -1613,6 +1613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-06-08 16:54:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2024-06-08 16:38:10 +0000"
@@ -1724,6 +1730,12 @@
   "minecraft:recipes/redstone/mangrove_button": {
     "criteria": {
       "has_planks": "2024-06-08 16:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-06-08 16:54:53 +0000"
     },
     "done": true
   },
