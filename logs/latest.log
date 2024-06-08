@@ -4418,3 +4418,11 @@ java.io.IOException: Connection timed out
 [11:59:55] [Server thread/INFO]: [voicechat] Received secret request of THEfutureYT (18)
 [11:59:55] [Server thread/INFO]: [voicechat] Sent secret to THEfutureYT
 [12:00:02] [Server thread/INFO]: Made THEfutureYT a server operator
+[12:00:07] [Server thread/INFO]: THEfutureYT issued server command: /gamemode spectator
+[12:00:07] [Server thread/INFO]: [THEfutureYT: Set own game mode to Spectator Mode]
+[12:00:13] [Server thread/INFO]: THEfutureYT issued server command: /gamemode survival
+[12:00:13] [Server thread/INFO]: [THEfutureYT: Set own game mode to Survival Mode]
+[12:00:37] [Server thread/INFO]: THEfutureYT has made the advancement [Not Today, Thank You]
+[12:01:06] [Server thread/INFO]: THEfutureYT was slain by Zombie
+[12:01:11] [Server thread/INFO]: THEfutureYT issued server command: /gamemode spectator
+[12:01:11] [Server thread/INFO]: [THEfutureYT: Set own game mode to Spectator Mode]
