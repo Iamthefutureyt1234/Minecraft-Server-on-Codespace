@@ -413,3 +413,9 @@ java.net.SocketException: Connection reset
 [16:08:39] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
 [16:09:26] [Async Chat Thread - #10/INFO]: [Not Secure] <parde> پاسیار ادرسه هونه نه بیه گم وابیوم
 [16:09:39] [Async Chat Thread - #10/INFO]: [Not Secure] <parsahigh> 2100 1800
+[16:11:43] [Server thread/WARN]: Oak Boat (vehicle of parde) moved wrongly! 0.2625361019315733
+[16:11:43] [Server thread/WARN]: Oak Boat (vehicle of parde) moved wrongly! 0.34104768312045053
+[16:11:43] [Server thread/WARN]: Oak Boat (vehicle of parde) moved wrongly! 0.44206713354219573
+[16:12:01] [Server thread/WARN]: parde moved too quickly! -15.681861769920943,-1.1767592750642422,-2.7080650809596136
+[16:12:41] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[16:14:13] [Server thread/INFO]: parde has made the advancement [Cover Me with Diamonds]
