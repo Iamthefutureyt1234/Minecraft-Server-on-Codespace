@@ -3408,3 +3408,8 @@ java.io.IOException: Connection timed out
 [11:24:12] [User Authenticator #17/INFO]: UUID of player parsahigh is 5e02527e-af36-345e-96d7-ca5509944e12
 [11:24:13] [Server thread/INFO]: parsahigh joined the game
 [11:24:13] [Server thread/INFO]: parsahigh[/127.0.0.1:45106] logged in with entity id 85207 at ([world]1933.300000011921, 5.0, 2065.2307818374948)
+[11:24:30] [Async Chat Thread - #44/INFO]: [Not Secure] <parde> پاسیار کوچنی
+[11:24:38] [Async Chat Thread - #44/INFO]: [Not Secure] <parsahigh> cave
+[11:24:44] [Async Chat Thread - #45/INFO]: [Not Secure] <parde> تا کی
+[11:24:51] [Async Chat Thread - #44/INFO]: [Not Secure] <parsahigh> tamom
+[11:25:23] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
