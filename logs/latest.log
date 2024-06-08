@@ -509,3 +509,8 @@ java.net.SocketException: Connection reset
 [16:39:31] [User Authenticator #8/INFO]: UUID of player parsahigh is 5e02527e-af36-345e-96d7-ca5509944e12
 [16:39:32] [Server thread/INFO]: parsahigh joined the game
 [16:39:33] [Server thread/INFO]: parsahigh[/127.0.0.1:39732] logged in with entity id 23712 at ([world]2267.430782783601, 63.0, 1551.0276417483915)
+[16:40:46] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[16:40:48] [Async Chat Thread - #20/INFO]: [Not Secure] <parsahigh> rang mikharam
+[16:40:59] [Async Chat Thread - #20/INFO]: [Not Secure] <parde> چه رنگی
+[16:41:05] [Async Chat Thread - #21/INFO]: [Not Secure] <parsahigh> abi
+[16:41:12] [Async Chat Thread - #20/INFO]: [Not Secure] <parde> چنتا
