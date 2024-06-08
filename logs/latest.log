@@ -609,3 +609,18 @@ java.lang.NullPointerException: Cannot read field "g" because the return value o
 [09:51:46] [User Authenticator #5/INFO]: UUID of player parde is 2e13e020-0a32-3dae-849b-deda76751f74
 [09:51:46] [Server thread/INFO]: parde joined the game
 [09:51:46] [Server thread/INFO]: parde[/127.0.0.1:49440] logged in with entity id 10734 at ([world]-345.91908021522966, 60.48258846072295, 49.74880196417999)
+[09:52:54] [Server thread/INFO]: GhasemAgha fell from a high place
+[09:53:03] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[09:53:56] [Thread-9/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.141.194:1691, peerAddr=5.127.212.134:17667, claimAddress=209.25.143.2:43785, claimToken=[44, 0, 60, -47, 25, -115, -62, 6, -101, 5, 127, -44, -122, 69, 3, -18, 33, -117, 117, -85, 9, 102, 100, 42, 52, 0, 0, 0, 0, 0, 8, -22, -69, 0, 0, 0, 0, 0, 50, 3, 1, -81, 117, -85, 9, 0, 0, 0, 0, 14, 0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 87, -114, -43, -108, 0, -85, 20, 61, 33, 21, 82, 104, 25, -35, -84, 81], tunnelServerId=4, dataCenterId=14}
+[09:53:56] [Thread-9/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[09:53:56] [Thread-9/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.143.2:43785 to claim client
+[09:53:56] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[09:53:56] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[09:53:56] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[09:53:56] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[09:53:56] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] failed to get Minecraft server from Bukkit.getServer()
+[09:53:56] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[09:53:56] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[09:53:56] [User Authenticator #6/INFO]: UUID of player amirreza_1388 is 8fd17e6d-5f83-3f11-89bb-bfdd5724477a
+[09:53:56] [Server thread/INFO]: amirreza_1388 joined the game
+[09:53:56] [Server thread/INFO]: amirreza_1388[/127.0.0.1:45118] logged in with entity id 13734 at ([world]101.69999998807906, 61.0, 229.69999998807913)
