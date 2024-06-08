@@ -4602,3 +4602,8 @@ java.io.IOException: Connection timed out
 [12:13:40] [Server thread/INFO]: [voicechat] Received secret request of THEfutureYT (18)
 [12:13:40] [Server thread/INFO]: [voicechat] Sent secret to THEfutureYT
 [12:13:41] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[12:14:12] [Server thread/INFO]: THEfutureYT issued server command: /gamemode creative
+[12:14:12] [Server thread/INFO]: [THEfutureYT: Set own game mode to Creative Mode]
+[12:14:25] [Async Chat Thread - #66/INFO]: [Not Secure] <mohammad1388di> هوی
+[12:14:35] [Server thread/INFO]: THEfutureYT issued server command: /gamemode survival
+[12:14:35] [Server thread/INFO]: [THEfutureYT: Set own game mode to Survival Mode]
