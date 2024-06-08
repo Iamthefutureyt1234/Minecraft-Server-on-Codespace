@@ -860,6 +860,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2024-06-08 15:21:08 +0000",
       "minecraft:zombie": "2024-06-08 11:07:42 +0000"
     },
     "done": false
@@ -879,6 +880,18 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-06-08 11:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-06-08 15:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-06-08 15:22:03 +0000"
     },
     "done": true
   },
