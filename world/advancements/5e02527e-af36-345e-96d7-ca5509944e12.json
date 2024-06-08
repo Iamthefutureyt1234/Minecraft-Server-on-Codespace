@@ -2180,5 +2180,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-06-08 16:52:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
